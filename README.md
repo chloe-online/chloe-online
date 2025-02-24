@@ -1,5 +1,5 @@
 <div style="width: 100%; text-align: center;">
-  <a style="display: inline-block; margin: 0 auto;" href="https://chlo.exposed">chlo.exposed</a>
+  <a style="display: inline-block; margin: 0 auto;" href="https://chlo.club">chlo.club</a>
 </div>
 
 ```math
